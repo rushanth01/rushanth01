@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<h2 align="left">Hello, I'm Rushanth M </h2>
+<h2 align="left"> I'm Rushanth M </h2>
 
 ###
 
