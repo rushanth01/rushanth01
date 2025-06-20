@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 
 
 <h2 align="left"> I'm Rushanth M </h2>
 
